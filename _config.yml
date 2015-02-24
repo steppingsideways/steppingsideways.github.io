@@ -1,14 +1,15 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Stepping Sideways
+email: john.woods@gobaci.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Stepping Sideways is a deck of cards designed to help us break
+  out of mental habits and physical routines - habits and routines 
+  which may be invisible to us and which may reinforce our isolation 
+  and stuck-ness.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.steppingsideways.com" # the base hostname & protocol for your site
+twitter_username: burnabyassociation 
+github_username: burnabyassociation
 
 # Build settings
 markdown: kramdown
