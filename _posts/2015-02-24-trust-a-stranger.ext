@@ -1,18 +1,28 @@
 ---
 layout: post
-title:  "Trust a Stranger"
+title:  "Trust A Stranger"
 date:   2015-02-24 10:11:24
 categories: stepping sideways deck
 ---
 
-Since the early 1990s, crime
+<div class="row">
+	<div class="col-md-4">
+		<img class="img-responsive center-block animated flipInX" style="padding-bottom:30px;"  src="/images/trust_a_stranger.png"></img>
+	</div>
+	<div class="animated fadeIn col-md-8">
+		<h1 style="margin-top:0px;">Trust A Stranger</h1>
+<p>Since the early 1990s, crime
 has declined in North
 America, and current crime
 rates are approximately the
 same as those of the 1960s.
 (Source - Wikipedia)
-
+</p>
+<p>
 Remember back in the good old days when
 you could ask someone you don’t know for
 a quick hand, or you could walk alone at
 night? The good old days are today.
+</p>
+	</div>
+</div>

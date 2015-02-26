@@ -1,6 +1,5 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
 <script>
    var posts = [];
    {% for post in site.posts %}
@@ -12,12 +11,18 @@ layout: default
     }
 </script>
 
-<div class="post">
-    <div class="post-header">
-      <div class="btn center-block" onclick="visitPage();">Draw another Card</div>
-    </div>
-  <article class="post-content">
-    {{ content }}
-  </article>
+  {% include head.html %}
 
-</div>
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content" style="background-color:#303538;">
+        {{ content }}
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

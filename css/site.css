@@ -31,3 +31,8 @@
   text-decoration: none;
   cursor: pointer;
 }
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}

@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   and stuck-ness.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.steppingsideways.com" # the base hostname & protocol for your site
-twitter_username: burnabyassociation 
+twitter_username: gobaci 
 github_username: burnabyassociation
 
 # Build settings

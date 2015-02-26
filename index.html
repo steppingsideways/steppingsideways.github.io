@@ -1,20 +1,11 @@
 ---
-layout: page
+layout: home
 ---
-<script>
-   var posts = [];
-   {% for post in site.posts %}
-      posts.push("{{ post.url }}");
-   {% endfor %}
-
-    function visitPage(){
-        window.location = posts[Math.floor(Math.random() * posts.length)];
-    }
-</script>
-
 <div class="home">
 
-<div class="btn" onclick="visitPage();">Draw a Card</div>
-
+<div class="wrapper">
+<h1 style="color:#FFF; margin-bottom:20px;">A card deck designed to help us try new things.</h1>
+<div class="btn" style="margin-bottom:20px"; onclick="visitPage();">Draw a Card</div>
+</div>
 </div>
 
