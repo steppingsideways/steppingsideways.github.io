@@ -4,12 +4,11 @@ title:  "Smile At People"
 date:   2015-02-24 10:11:24
 categories: stepping sideways deck
 ---
+![smileatpeople Card](/images/smile_at_people.png){: .img-responsive .center-block .animated .flipInX}
+
 
 <div class="row">
-	<div class="col-md-4">
-		<img class="img-responsive center-block animated flipInX" style="padding-bottom:30px;"  src="/images/smile_at_people.png"></img>
-	</div>
-	<div class="animated fadeIn col-md-8">
+	<div class="animated fadeIn col-md-12">
 		<h1 style="margin-top:0px;">Smile At People</h1>
 		<p>We may be inclined to dismiss an idea when it is both simple and confronting. Smiling at people can be confronting.</p>
 
