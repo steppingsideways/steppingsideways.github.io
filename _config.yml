@@ -8,6 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   and stuck-ness.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.steppingsideways.com" # the base hostname & protocol for your site
+gitstatic: "https://github.com/steppingsideways/steppingsideways.github.io/blob/master/"
 twitter_username: gobaci 
 github_username: burnabyassociation
 

@@ -7,7 +7,7 @@ categories: stepping sideways deck
 
 <div class="row">
 	<div class="col-md-4">
-		<img class="img-responsive center-block animated flipInX" style="padding-bottom:30px;"  src="/images/trust_a_stranger.png"></img>
+		<img class="img-responsive center-block animated flipInX" style="padding-bottom:30px;"  src="{{site.baseurl}}/images/trust_a_stranger.png"></img>
 	</div>
 	<div class="animated fadeIn col-md-8">
 		<h1 style="margin-top:0px;">Trust A Stranger</h1>
