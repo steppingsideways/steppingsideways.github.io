@@ -1,15 +1,5 @@
 <!DOCTYPE html>
 <html>
-<script>
-   var posts = [];
-   {% for post in site.posts %}
-      posts.push("{{ post.url }}");
-   {% endfor %}
-
-    function visitPage(){
-        window.location = posts[Math.floor(Math.random() * posts.length)];
-    }
-</script>
   {% include head.html %}
 
   <body>

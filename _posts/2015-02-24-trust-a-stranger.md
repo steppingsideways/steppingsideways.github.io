@@ -4,7 +4,7 @@ title:  "Trust A Stranger"
 date:   2015-02-24 10:11:24
 categories: stepping sideways deck
 ---
-![trustastranger Card](https://github.com/steppingsideways/steppingsideways.github.io/blob/master/images/Trust_a_stranger.png?raw=true){: .img-responsive .center-block .animated .flipInX}
+![trustastranger Card](https://github.com/steppingsideways/steppingsideways.github.io/blob/master/images/Trust_a_stranger.png?raw=true){: .img-responsive .center-block .animated .fadeIn}
 
 
 <div class="row">
