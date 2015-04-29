@@ -4,7 +4,7 @@ title:  "Re-Conquer The Ordinary"
 date:   2015-02-24 09:16:24
 categories: stepping sideways deck
 ---
-![Re-Conquer The Ordinary Card](https://github.com/steppingsideways/steppingsideways.github.io/blob/master/images/Re_Conquer.png?raw=true){: .img-responsive .center-block .animated .fadeIn}
+![Re-Conquer The Ordinary Card](https://github.com/steppingsideways/steppingsideways.github.io/blob/master/images/re_conquer.png?raw=true){: .img-responsive .center-block .animated .fadeIn}
 
 <div class="row">
 	<div class="animated fadeIn col-md-12">
