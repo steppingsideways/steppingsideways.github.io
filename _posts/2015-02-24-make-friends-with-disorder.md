@@ -8,7 +8,7 @@ categories: stepping sideways deck
 
 <div class="row">
 	<div class="animated fadeIn col-md-12">
-		<h1 style="margin-top:0px;">Play</h1>
+		<h1 style="margin-top:0px;">Make Friends With Disorder</h1>
 		A polite lineup at the post office can be beautiful. So can a joshing scrum by the espresso pick-up counter, or a parking lot full of people waiting for the fire alarm to be turned off. Why endure disorder when you could relish it? When you hit an unexpected twist in the road, remember that dictionary definitions of “diversion” include “recreation” and  “amusement”.
 	</div>
 </div>

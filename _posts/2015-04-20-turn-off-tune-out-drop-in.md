@@ -8,7 +8,7 @@ categories: stepping sideways deck
 
 <div class="row">
 	<div class="animated fadeIn col-md-12">
-		<h1 style="margin-top:0px;">Play</h1>
+		<h1 style="margin-top:0px;">Turn Off, Tune Out, Drop In</h1>
 		Virtual community is gratifying, mediated and ephemeral. Geographic community is messy, demanding, and rewarding. Today while you are out in the world, turn your phone off until you reach your destination. Not an option? Then use it only for essential calls and texts - not media. What do you see? What do you hear? What do you smell? What do you feel?
 	</div>
 </div>
