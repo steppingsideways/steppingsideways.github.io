@@ -4,7 +4,7 @@ title:  "Acknowledge Someone's Gift"
 date:   2015-04-20 09:03:24
 categories: stepping sideways deck
 ---
-![Acknowledge_someones_gift Card](https://github.com/steppingsideways/steppingsideways.github.io/blob/master/images/Acknowledge_someones_gift.png?raw=true){: .img-responsive .center-block .animated .fadeIn}
+![Acknowledge_someones_gift Card](https://github.com/steppingsideways/steppingsideways.github.io/blob/master/images/acknowledge_someones_gift.png?raw=true){: .img-responsive .center-block .animated .fadeIn}
 
 <div class="row">
 	<div class="animated fadeIn col-md-12">
