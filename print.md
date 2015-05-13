@@ -2,9 +2,10 @@
 layout: page
 title: Printable Version
 permalink: /print/
+paginate: 13
 ---
 
-[Get the PDF]({{ site.url}}/cards_edit_for_web.pdf)
+[Click Here to go to a Printable PDF Page]({{ site.url}}/cards_edit_for_web.pdf)
 ![Explain Card]({{ site.url}}/print_images/cards_edit_for_web-13.png)
 <w:br w:type="page"/> 
 ![Cards 1-4]({{ site.url }}/print_images/cards_edit_for_web-01.png)
@@ -25,7 +26,7 @@ permalink: /print/
 <w:br w:type="page"/> 
 ![Cards 35-38]({{ site.url }}/print_images/cards_edit_for_web-09.png)
 <w:br w:type="page"/> 
-![Cards 39-41]({{ site.url }}/print_images/cards_edit_for_web-010.png)
+![Cards 39-41]({{ site.url }}/print_images/cards_edit_for_web-11.png)
 <w:br w:type="page"/> 
-![Cards 42-45]({{ site.url }}/print_images/cards_edit_for_web-011.png)
+![Cards 42-45]({{ site.url }}/print_images/cards_edit_for_web-10.png)
 
