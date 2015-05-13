@@ -4,6 +4,7 @@ title: Printable Version
 permalink: /print/
 ---
 
+[Get the PDF]({{ site.url}}/cards_edit_for_web.pdf)
 ![Explain Card]({{ site.url}}/print_images/cards_edit_for_web-13.png)
 <w:br w:type="page"/> 
 ![Cards 1-4]({{ site.url }}/print_images/cards_edit_for_web-01.png)
