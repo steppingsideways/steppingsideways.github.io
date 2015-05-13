@@ -8,7 +8,7 @@ categories: stepping sideways deck
 
 <div class="row">
 	<div class="animated fadeIn col-md-12">
-		<h1 style="margin-top:0px;">A Good Neighbour</h1>
+		<h1 style="margin-top:0px;">A Good Neighbour Does Good</h1>
 		What can you do? Lend a book? Share a meal? Say hi?
 	</div>
 </div>

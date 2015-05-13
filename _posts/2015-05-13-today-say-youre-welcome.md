@@ -9,6 +9,6 @@ categories: stepping sideways deck
 <div class="row">
 	<div class="animated fadeIn col-md-12">
 		<h1 style="margin-top:0px;">Today Say “You‘re Welcome” Instead Of  “No Problem”</h1>
-		Think of a nearby activity or place that creates apprehension. Go there and see what you find.
+		They mean very different things. Bonus - How many times can you say “You’re welcome.” in a day? 
 	</div>
 </div>

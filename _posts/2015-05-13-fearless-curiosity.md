@@ -9,6 +9,6 @@ categories: stepping sideways deck
 <div class="row">
 	<div class="animated fadeIn col-md-12">
 		<h1 style="margin-top:0px;">Fearless Curiosity</h1>
-		Say hi to the next person who locks eyes with you. (It’s easier if you don’t care whether they respond.
+		Say hi to the next person who locks eyes with you. (It’s easier if you don’t care whether they respond.)
 	</div>
 </div>
