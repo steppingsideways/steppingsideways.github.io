@@ -4,7 +4,7 @@ title:  "Smile At People"
 date:   2015-02-24 10:11:24
 categories: stepping sideways deck
 ---
-![smileatpeople Card](https://github.com/steppingsideways/steppingsideways.github.io/blob/master/images/Smile_at_people.png?raw=true){: .img-responsive .center-block .animated .fadeIn}
+![smileatpeople Card](https://github.com/steppingsideways/steppingsideways.github.io/blob/master/images/Smile_at_people_EDIT.png?raw=true){: .img-responsive .center-block .animated .fadeIn}
 
 
 <div class="row">
