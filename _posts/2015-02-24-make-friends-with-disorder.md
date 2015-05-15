@@ -4,7 +4,7 @@ title:  "Make Friends With Disorder"
 date:   2015-02-24 09:31:24
 categories: stepping sideways deck
 ---
-![Make Friends With Disorder Card](https://github.com/steppingsideways/steppingsideways.github.io/blob/master/images/make_friends_with_disorder_EDIT.png?raw=true){: .img-responsive .center-block .animated .fadeIn}
+![Make Friends With Disorder Card](https://github.com/steppingsideways/steppingsideways.github.io/blob/master/images/make-friends-with-disorder_EDIT.png?raw=true){: .img-responsive .center-block .animated .fadeIn}
 
 <div class="row">
 	<div class="animated fadeIn col-md-12">
