@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Stepping Sideways is a deck of cards designed to help us break out of mental habits and physical routines - habits and routines  which may be invisible to us and which may reinforce our isolation and stuck-ness. We use the cards when we want to manifest new outcomes in our urban environments.
+Stepping Sideways is a deck of cards designed to manifest new experiences by helping us break out of our mental habits and physical routines. Many of our habits and routines are invisible to us. Some of them may reinforce isolation and stuck-ness. Stepping Sideways introduces elements of chance, playfulness, and novelty to the mix. We use the cards when we want to manifest new outcomes in our urban environments.
 
 The phrases on the cards point to actions, attitudes or perspectives that we should be able to adopt immediately and incorporate into our day without extensive pre-planning. We draw a single card from the shuffled pack or by clicking the "draw a card" button. The card is trusted for the entire day, even if its appropriateness is quite unclear...
 
