@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+
+<script>
+   var posts = [];
+   {% for post in site.posts %}
+      posts.push("{{ post.url }}");
+   {% endfor %}
+
+    function visitPage(){
+        window.location = posts[Math.floor(Math.random() * posts.length)];
+    }
+</script>
 <div class="post">
 
   <header class="post-header">
